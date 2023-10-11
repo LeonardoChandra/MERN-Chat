@@ -1,11 +1,12 @@
 # MERN Chat 🗨️💬
-> <br/>A chat application where you can chat and socialize with people all over the world!
-<br></br>
+**A CHAT APPLICATION WHERE YOU CAN CHAT AND SOCIALIZE WITH PEOPLE ALL OVER THE WORLD!**
+
+<br>
 <div align="center">
   <img src="https://github.com/LeonardoChandra/Chat-App-MERN/assets/137888895/5baddeb5-2ccf-465d-a5dd-fb35d7d8611c"  />
 </div>
 
-<div align="center" style="font-weight: bold"><a href="https://github.com/LeonardoChandra/Chat-App-MERN/issues">Report Bug or Improvement Sugestion</a></div>
+<div align="center" style="font-weight: bold"><a href="https://github.com/LeonardoChandra/MERN-Chat/issues">Report Bug or Improvement Sugestion</a></div>
 
 <br></br>
 ## Tools Used 🔧
@@ -38,7 +39,7 @@
 
 <br></br>
 ## Project Experience 🚀
-After learning the basics, I decided to move on to a new technology, MERN (MongoDB, Express, React, Node) stack. There a lot of things I learn in this fullstack chat app project including implementing a database and using websocket to enable real-time, two-way communication between client and server, in this case I used it for the messaging feature. I also learn about user authorization using JSON Webtoken (JWT) and cookies to keep a user stay logged in. This project has further my understanding about MERN stack and I hope to master each component in the future. If you have any comment or suggestion for improvement, be sure to reach me out through my [GitHub issue](https://github.com/LeonardoChandra/Chat-App-MERN/issues).
+After learning the basics, I decided to move on to a new technology, MERN (MongoDB, Express, React, Node) stack. There a lot of things I learn in this fullstack chat app project including implementing a database and using websocket to enable real-time, two-way communication between client and server, in this case I used it for the messaging feature. I also learn about user authorization using JSON Webtoken (JWT) and cookies to keep a user stay logged in. This project has further my understanding about MERN stack and I hope to master each component in the future. If you have any comment or suggestion for improvement, be sure to reach me out through my [GitHub issue](https://github.com/LeonardoChandra/MERN-Chat/issues).
 
 <br></br>
 ## Installation 📂
